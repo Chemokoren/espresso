@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-43:12
+MERGED from [com.android.support:support-v4:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/f99457d4633e9e38c54b45f9bea4b694/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/ed701df7a95fed04b09d7d25ef4cd7a6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/b2c81271d9c913814c472165751d9fff/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/34954ddbefa246bcdbc43b3988ac5202/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e58bbf118205173e33f2d7a51ec2d645/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/e79e28517be89dfe47fae2bc5f344682/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-43:12
+	package
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:19:11-69
+		INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-43:12
+		INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-43:12
+		INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:11-69
+uses-sdk
+ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:21:5-74
+INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:21:5-74
+INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:21:5-74
+MERGED from [com.android.support:support-v4:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/f99457d4633e9e38c54b45f9bea4b694/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/f99457d4633e9e38c54b45f9bea4b694/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/ed701df7a95fed04b09d7d25ef4cd7a6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/ed701df7a95fed04b09d7d25ef4cd7a6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/b2c81271d9c913814c472165751d9fff/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/b2c81271d9c913814c472165751d9fff/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/34954ddbefa246bcdbc43b3988ac5202/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/34954ddbefa246bcdbc43b3988ac5202/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e58bbf118205173e33f2d7a51ec2d645/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e58bbf118205173e33f2d7a51ec2d645/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/e79e28517be89dfe47fae2bc5f344682/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/e79e28517be89dfe47fae2bc5f344682/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:21:5-74
+INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:21:5-74
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/f99457d4633e9e38c54b45f9bea4b694/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:21:42-71
+		INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:21:15-41
+		INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:23:22-66
+application
+ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:25:5-41:19
+MERGED from [com.android.support:support-v4:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/f99457d4633e9e38c54b45f9bea4b694/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/f99457d4633e9e38c54b45f9bea4b694/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/ed701df7a95fed04b09d7d25ef4cd7a6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/ed701df7a95fed04b09d7d25ef4cd7a6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/b2c81271d9c913814c472165751d9fff/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/b2c81271d9c913814c472165751d9fff/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/34954ddbefa246bcdbc43b3988ac5202/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/34954ddbefa246bcdbc43b3988ac5202/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e58bbf118205173e33f2d7a51ec2d645/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e58bbf118205173e33f2d7a51ec2d645/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/e79e28517be89dfe47fae2bc5f344682/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/e79e28517be89dfe47fae2bc5f344682/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:27:13-45
+	android:icon
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:26:13-49
+	android:theme
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:28:13-44
+activity#com.example.android.testing.espresso.BasicSample.DialerActivity
+ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:30:17-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:34:27-74
+activity#com.example.android.testing.espresso.BasicSample.ContactsActivity
+ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:37:9-39:51
+	android:label
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:39:17-49
+	android:name
+		ADDED from /home/kibsoft/Documents/android apps/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:38:17-49
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/f99457d4633e9e38c54b45f9bea4b694/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/ed701df7a95fed04b09d7d25ef4cd7a6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/ed701df7a95fed04b09d7d25ef4cd7a6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/b2c81271d9c913814c472165751d9fff/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/b2c81271d9c913814c472165751d9fff/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/34954ddbefa246bcdbc43b3988ac5202/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/34954ddbefa246bcdbc43b3988ac5202/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e58bbf118205173e33f2d7a51ec2d645/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e58bbf118205173e33f2d7a51ec2d645/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/e79e28517be89dfe47fae2bc5f344682/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/e79e28517be89dfe47fae2bc5f344682/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/f99457d4633e9e38c54b45f9bea4b694/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:25.4.0] /home/kibsoft/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/f99457d4633e9e38c54b45f9bea4b694/AndroidManifest.xml:27:13-51

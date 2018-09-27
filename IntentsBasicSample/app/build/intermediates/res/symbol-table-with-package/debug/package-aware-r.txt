@@ -1,0 +1,15 @@
+com.example.android.testing.espresso.BasicSample
+int dimen activity_horizontal_margin 0x7f010000
+int drawable ic_launcher 0x7f020000
+int id button_call_number 0x7f030000
+int id button_pick_contact 0x7f030001
+int id edit_text_caller_number 0x7f030002
+int layout activity_contacts 0x7f040000
+int layout activity_dialer 0x7f040001
+int string app_name 0x7f050000
+int string button_dial_number 0x7f050001
+int string button_pick_contact 0x7f050002
+int string contacts_activity_placeholder 0x7f050003
+int string type_a_phone_number 0x7f050004
+int string warning_call_phone_permission 0x7f050005
+int style AppTheme 0x7f060000
